@@ -1,6 +1,6 @@
 # Fotoğraf Boyutu Küçültücü
 
-Büyük JPEG ve PNG resim dosyalarını otomatik olarak 1 MB'ın altına düşüren Python programı.
+Büyük JPEG ve PNG resim dosyalarını otomatik olarak 1 MB'ın altına düşüren Python programı
 
 ## Neden Oluşturuldu?
 
