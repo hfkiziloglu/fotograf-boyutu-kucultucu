@@ -118,4 +118,4 @@ Lütfen program klasörüne 'input.jpg' veya 'input.png' yerleştirin.
 
 ## Lisans
 
-Bu proje açık kaynak yazılımdır, serbestçe kullanılabilir.
+MIT
